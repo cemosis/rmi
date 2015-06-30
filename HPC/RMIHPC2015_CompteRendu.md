@@ -122,15 +122,20 @@ comment intégrer des résultats théoriques ? comment pérenniser les relations
 **Prudhomme**: j'ai une collaboration avec une ETI financée par un PEPS2 AMIES autour d'une résolution non standard des équations de Navier-Stokes incompressibles. Le sujet a été très peu traité d'un point de vue théorique et numérique et il présente de sérieux challenges sérieux.
 
 #### rôle des pépinières d'entreprises ?
+
 **Muot**:Axessim a démarré dans un incubateur en 2007, sans contacts avec l'université. Le contact s'est effectué de manière fortuite par la suite.
 
 #### Comment faire pour une PME/Startup de gérer un code HPC? quid du manque d'expertise en local et coût élevé de maintenance ?
 
 **Prudhomme**: se greffer sur des communautés autour de logiciels libres comme par exemple OpenTURNS, OpenFOAM et embaucher des docteurs qui pourront faire le lien avec cette communauté et les intégrer/adapter aux besoins de l'entreprise. La maintenance devient collective et le coût réduit. Des PME peuvent développer des services autour de ces plateformes, les chercheurs ont un accès au code source pour développer de nouveaux algorithmes.
 Une RMI autour de la Propriété Intellectuelle et de ce modèle de développement est prévue
+
 **Michelin**: pourquoi ne pas créer des consortiums autour de logiciels (suivre l'exemple de MUMPS). Les industriels émargent au consortium sur plusieurs et apportent des financements à la R&D de la plateforme logicielle.
+
 **Prudhomme**: C'est effectivement une très bonne idée. Je n'ai pas connaissance de tel montage actuellement en mathématique. Nous allons regarder ca. Le Logiciel [Feel++](http://www.feelpp.org) met en place un consortium mais on en est encore à l'étape juridique
 
 #### Quel est l'intérêt pour les académiques de travailler sur des problématiques HPC industriels
+
 **Helluy**: de travailler sur des applications concretes et d'en extraire des problèmes de mathématiques
+
 **Prudhomme** : Il n'y a pas que l'aspect recherche qui peut motiver il y a aussi l'aspect formation pour nos étudiants. Les industriels amènent des sujets de stage et des contextes d'applications qui sont très intéressants pour illustrer la puissance des mathématiques et du HPC et les motiver a suivre une filière Mathématique Appliquées/HPC. les industriels sont bienvenus pour venir motiver nos étudiants dans les masters.
