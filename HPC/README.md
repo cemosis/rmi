@@ -18,10 +18,10 @@
 Quelques mots d'Introduction
 
  - Maison de La Simulation
- - AMIES
+ - [AMIES PDF Slides](RMIHPC2015_AMIES.pdf)
  - SMAI
 
- [PDF Slides](RMIHPC2015_AMIES.pdf)
+
 
 ---
 
@@ -29,9 +29,7 @@ Quelques mots d'Introduction
 
 ##  Calcul sur GPU pour les équations de Maxwell: Histoire d'une collaboration Math Entreprises qui passe à l'échelle
 
-### N. Muot (AxesSim), P. Helluy (U. Strasbourg/CNRS-INSMI)
-
-[PDF Slides](RMIHPC2015_PHelluy_NMuot.pdf)
+### N. Muot (AxesSim), P. Helluy (U. Strasbourg/CNRS-INSMI) [PDF Slides](RMIHPC2015_PHelluy_NMuot.pdf)
 
 ---
 ## Atelier 2 - 15h30 - 16h30 J. Garnier
@@ -39,14 +37,10 @@ Quelques mots d'Introduction
 ## Le HPC au service des Incertitudes
 
 ### Analyse de sensibilité globale sur un modèle d’écosystème marin - Déploiement sur grille
-#### L Viry (U. Grenoble Alpes)
-
-[PDF Slides](RMIHPC2015_LViry.pdf)
+#### L Viry (U. Grenoble Alpes) [PDF Slides](RMIHPC2015_LViry.pdf)
 
 ### Utilisation des h-matrices pour l’apprentissage et la simulation de champs Gaussiens
-#### R. Lebrun (Airbus)
-
-[PDF Slides](RMIHPC2015_RLebrun.pdf)
+#### R. Lebrun (Airbus) [PDF Slides](RMIHPC2015_RLebrun.pdf)
 
 ---
 
@@ -56,9 +50,7 @@ Quelques mots d'Introduction
 
 
 ### De HPC-PME 1.0 à HPC-PME 2.0: du national au régional
-#### S. Requena (GENCI)
-
-[PDF Slides](RMIHPC2015_SRequena.pdf)
+#### S. Requena (GENCI) [PDF Slides](RMIHPC2015_SRequena.pdf)
 
 
 ### Table ronde
