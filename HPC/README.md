@@ -73,3 +73,6 @@ Quelques mots d'Introduction
    - Accès au HPC par les entreprises:
    - qu'est-ce qui est simple, qu'est-ce qu'il l'est moins?
    - quels financements ? quels types de ressources HPC ?
+
+
+   # [Compte Rendu de la Rencontre](RMIHPC2015_CompteRendu.md)
