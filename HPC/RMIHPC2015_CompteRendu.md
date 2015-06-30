@@ -119,4 +119,4 @@ Axessim a démarré dans un incubateur en 2007, sans contacts avec l'université
 
 #### Quel est l'intérêt pour les académiques de travail sur des problématiques HPC industriels
 
-Prudhomme : Il n'y a pas que l'aspect recherche qui peut motiver il y a aussi l'aspect formation pour nos étudiants. Les industriels amènent des sujets de stage et des contextes d'application les industriels sont bienvenus pour venir motiver nos étudiants dans les masters.
+Prudhomme : Il n'y a pas que l'aspect recherche qui peut motiver il y a aussi l'aspect formation pour nos étudiants. Les industriels amènent des sujets de stage et des contextes d'applications qui sont très intéressants pour illustrer la puissance des mathématiques et du HPC et les motiver a suivre une filière Mathématique Appliquées/HPC. les industriels sont bienvenus pour venir motiver nos étudiants dans les masters.
