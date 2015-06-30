@@ -7,8 +7,8 @@ Rencontre Mathématiques-Industrie HPC
 
 # Organisateurs
 
-- Analisa Ambroso (AA), AREVA & chargé de mission SMAI
-- Samuel Kokh (SK), CEA & Maison de la Simulation
+- Analisa Ambroso (AA), AREVA & chargé de mission relations industrielles SMAI
+- Samuel Kokh (SK), CEA & Maison de la Simulation & chargé de mission relations industrielles SMAI
 - Christophe Prudhomme(CP), U. Strasbourg & Chargé de mission AMIES
 
 # Introduction
