@@ -21,6 +21,8 @@ Quelques mots d'Introduction
  - AMIES
  - SMAI
 
+ [PDF Slides](RMIHPC2015_AMIES.pdf)
+
 ---
 
 ## Atelier 1 - 14h00 - 15h00
@@ -28,6 +30,8 @@ Quelques mots d'Introduction
 ##  Calcul sur GPU pour les équations de Maxwell: Histoire d'une collaboration Math Entreprises qui passe à l'échelle
 
 ### N. Muot (AxesSim), P. Helluy (U. Strasbourg/CNRS-INSMI)
+
+[PDF Slides](RMIHPC2015_PHelluy_NMuot.pdf)
 
 ---
 ## Atelier 2 - 15h30 - 16h30 J. Garnier
@@ -37,8 +41,12 @@ Quelques mots d'Introduction
 ### Analyse de sensibilité globale sur un modèle d’écosystème marin - Déploiement sur grille
 #### L Viry (U. Grenoble Alpes)
 
+[PDF Slides](RMIHPC2015_LViry.pdf)
+
 ### Utilisation des h-matrices pour l’apprentissage et la simulation de champs Gaussiens
 #### R. Lebrun (Airbus)
+
+[PDF Slides](RMIHPC2015_RLebrun.pdf)
 
 ---
 
@@ -49,6 +57,9 @@ Quelques mots d'Introduction
 
 ### De HPC-PME 1.0 à HPC-PME 2.0: du national au régional
 #### S. Requena (GENCI)
+
+[PDF Slides](RMIHPC2015_SRequena.pdf)
+
 
 ### Table ronde
 #### S. Requena (Genci), P. Helluy (U. Strasbourg, chargé de mission Calcul INSMI), N. Muot (AxesSim) et la salle

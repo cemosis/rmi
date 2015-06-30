@@ -1,12 +1,15 @@
-Rencontre math-industrie HPC  22 juin 2015
-------------------------------------------
+Rencontre Mathématiques-Industrie HPC  
+============================
+
+# 22 juin 2015
 
  - 50 inscrits, 30 présents
 
 # Organisateurs
- - Analisa Ambroso (AA)
-	- Samuel Kokh (SK)
- - Christophe Prudhomme (CP)
+
+ - Analisa Ambroso (AA), AREVA & chargé de mission SMAI
+	- Samuel Kokh (SK), CEA & Maison de la Simulation
+ - Christophe Prudhomme(CP), U. Strasbourg & Chargé de mission AMIES
 
 # Introduction
 
@@ -14,7 +17,9 @@ Rencontre math-industrie HPC  22 juin 2015
 CNRS, CEA, univesoté, applications du calcul intensif. un pool d'ingénieurs, formations au HPC : équipex meso et PATC (européen), c'est gratuit. La MdS contribue au catalogue coordonnée des formations en calcul, avec MAiMoSiNe.
 
 - Analisa Ambroso (SMAI)
+Bienvenue aux participants de la part de la SMAI.
 Cette journée math-industrie a été plusieurs fois reportée.
+
 
 - Christophe Prudhomme (AMIES)
 CP présente le programme de la journée.
@@ -117,6 +122,6 @@ Prudhomme: j'ai une collaboration avec une ETI financée par un PEPS2 AMIES auto
 #### rôle des pépinières d'entreprises ?
 Axessim a démarré dans un incubateur en 2007, sans contacts avec l'université. Le contact s'est effectué de manière fortuite par la suite.
 
-#### Quel est l'intérêt pour les académiques de travail sur des problématiques HPC industriels
-
+#### Quel est l'intérêt pour les académiques de travailler sur des problématiques HPC industriels
+Helluy: de travailler sur des applications concretes et d'en extraire des problèmes de mathématiques
 Prudhomme : Il n'y a pas que l'aspect recherche qui peut motiver il y a aussi l'aspect formation pour nos étudiants. Les industriels amènent des sujets de stage et des contextes d'applications qui sont très intéressants pour illustrer la puissance des mathématiques et du HPC et les motiver a suivre une filière Mathématique Appliquées/HPC. les industriels sont bienvenus pour venir motiver nos étudiants dans les masters.
