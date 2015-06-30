@@ -101,34 +101,36 @@ comment intégrer des résultats théoriques ? comment pérenniser les relations
 
 #### Axessim: comment avez vous trouvé l'IRMA ?
 
-Helluy : via un contact personnel et de manière fortuite. Le talent du stagiaire de M2 a permis de décoller. Muot : on a pu bâtir progressivement le projet autour de l'étudiant. Heureusement qu'il est resté, on l'a embauché ensuite.
+**Helluy** : via un contact personnel et de manière fortuite. Le talent du stagiaire de M2 a permis de décoller.
 
-Helluy : la première étape a été un code open-source commun. Bon pour nous : un code OpenCL documenté et sans erreur. Axessim a enveloppé ce code dans du graphique.
+**Muot** : on a pu bâtir progressivement le projet autour de l'étudiant. Heureusement qu'il est resté, on l'a embauché ensuite. Le doctorant (CIFRE) a été embauché dès sa première année de doctorat.
 
-Helluy : le code ONERA, sur hexaèdre, utilisant une propriété spéciale du rotationnel, gagnait un facteur 50. On a vu comment le modifier pour garder le même gain pour un système de lois de conservaton général. Ensuite, la programmation GPU gagne un facteur 10.
+**Helluy** : la première étape a été un code open-source commun. Bon pour nous : un code OpenCL documenté et sans erreur. Axessim a enveloppé ce code dans du graphique.
+
+**Helluy** : le code ONERA, sur hexaèdre, utilisant une propriété spéciale du rotationnel, gagnait un facteur 50. On a vu comment le modifier pour garder le même gain pour un système de lois de conservaton général. Ensuite, la programmation GPU gagne un facteur 10.
 
 #### Quelle durée entre une idée et une réalisation ?
 
-Les 3 années de la thèse. Dont 6 mois de tuning pour optimiser les performances.
+**Helluy/Muot** : Les 3 années de la thèse. Dont 6 mois de tuning pour optimiser les performances.
 
 #### Comment faire un sujet de thèse lorsque l'objectif est améliorer la compétitivité d'une petite entreprise ?
 
-Helluy : très souvent, il y a un problème mathématique intéressant qui est au coeur de la thèse.
+**Helluy** : très souvent, il y a un problème mathématique intéressant qui est au coeur de la thèse.
 
-Requena : au bout, il y a un job pour le doctorant, ça fait partie des objectifs des organismes de recherche. Noter que les PME sont très intéressées à ces embauches, elle ont de la peine à recruter.
+**Requena** : au bout, il y a un job pour le doctorant, ça fait partie des objectifs des organismes de recherche. Noter que les PME sont très intéressées à ces embauches, elle ont de la peine à recruter.
 
-Prudhomme: j'ai une collaboration avec une ETI financée par un PEPS2 AMIES autour d'une résolution non standard des équations de Navier-Stokes incompressibles. Le sujet a été très peu traité d'un point de vue théorique et numérique et il présente de sérieux challenges sérieux.
+**Prudhomme**: j'ai une collaboration avec une ETI financée par un PEPS2 AMIES autour d'une résolution non standard des équations de Navier-Stokes incompressibles. Le sujet a été très peu traité d'un point de vue théorique et numérique et il présente de sérieux challenges sérieux.
 
 #### rôle des pépinières d'entreprises ?
-Axessim a démarré dans un incubateur en 2007, sans contacts avec l'université. Le contact s'est effectué de manière fortuite par la suite.
+**Muot**:Axessim a démarré dans un incubateur en 2007, sans contacts avec l'université. Le contact s'est effectué de manière fortuite par la suite.
 
 #### Comment faire pour une PME/Startup de gérer un code HPC? quid du manque d'expertise en local et coût élevé de maintenance ?
 
-Prudhomme: se greffer sur des communautés autour de logiciels libres comme par exemple OpenTURNS, OpenFOAM et embaucher des docteurs qui pourront faire le lien avec cette communauté et les intégrer/adapter aux besoins de l'entreprise. La maintenance devient collective et le coût réduit. Des PME peuvent développer des services autour de ces plateformes, les chercheurs ont un accès au code source pour développer de nouvels algorithmes.
+**Prudhomme**: se greffer sur des communautés autour de logiciels libres comme par exemple OpenTURNS, OpenFOAM et embaucher des docteurs qui pourront faire le lien avec cette communauté et les intégrer/adapter aux besoins de l'entreprise. La maintenance devient collective et le coût réduit. Des PME peuvent développer des services autour de ces plateformes, les chercheurs ont un accès au code source pour développer de nouveaux algorithmes.
 Une RMI autour de la Propriété Intellectuelle et de ce modèle de développement est prévue
-Michelin: pourquoi ne pas créer des consortiums autour de logiciels (suivre l'exemple de MUMPS). Les industriels émargent au consortium sur plusieurs et apportent des financements à la R&D de la plateforme logicielle.
-Prudhomme: C'est effectivement une très bonne idée. Je n'ai pas connaissance de tel montage actuellement en mathématique. Nous allons regarder ca. Le Logiciel [Feel++](http://www.feelpp.org) met en place un consortium mais on en est encore à l'étape juridique
+**Michelin**: pourquoi ne pas créer des consortiums autour de logiciels (suivre l'exemple de MUMPS). Les industriels émargent au consortium sur plusieurs et apportent des financements à la R&D de la plateforme logicielle.
+**Prudhomme**: C'est effectivement une très bonne idée. Je n'ai pas connaissance de tel montage actuellement en mathématique. Nous allons regarder ca. Le Logiciel [Feel++](http://www.feelpp.org) met en place un consortium mais on en est encore à l'étape juridique
 
 #### Quel est l'intérêt pour les académiques de travailler sur des problématiques HPC industriels
-Helluy: de travailler sur des applications concretes et d'en extraire des problèmes de mathématiques
-Prudhomme : Il n'y a pas que l'aspect recherche qui peut motiver il y a aussi l'aspect formation pour nos étudiants. Les industriels amènent des sujets de stage et des contextes d'applications qui sont très intéressants pour illustrer la puissance des mathématiques et du HPC et les motiver a suivre une filière Mathématique Appliquées/HPC. les industriels sont bienvenus pour venir motiver nos étudiants dans les masters.
+**Helluy**: de travailler sur des applications concretes et d'en extraire des problèmes de mathématiques
+**Prudhomme** : Il n'y a pas que l'aspect recherche qui peut motiver il y a aussi l'aspect formation pour nos étudiants. Les industriels amènent des sujets de stage et des contextes d'applications qui sont très intéressants pour illustrer la puissance des mathématiques et du HPC et les motiver a suivre une filière Mathématique Appliquées/HPC. les industriels sont bienvenus pour venir motiver nos étudiants dans les masters.
